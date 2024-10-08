@@ -15,11 +15,11 @@ export default function AboutMe() {
             tempora numquam sint odit optio.
           </p>
           <p className="hero--section-description">
-          Hi, I’m Ricardo Philippe, a 37-year-old passionate web developer with a love for crafting digital experiences that are both functional and visually compelling. I’m a husband and father of two, which means my life is as full of adventure at home as it is in my coding projects!
+          Hi, I am Ricardo Philippe, a 37-year-old passionate web developer with a love for crafting digital experiences that are both functional and visually compelling. I am a husband and father of two, which means my life is as full of adventure at home as it is in my coding projects!
 
-In November 2024, I earned my Full Stack Web Development Certificate from the University of Central Florida, where I honed my skills in both front-end and back-end technologies. Whether I’m building responsive websites, developing dynamic web applications, or integrating complex databases, I’m always focused on creating solutions that meet both client and user needs.
+          In November 2024, I earned my Full Stack Web Development Certificate from the University of Central Florida, where I honed my skills in both front-end and back-end technologies. Whether I am building responsive websites, developing dynamic web applications, or integrating complex databases, I am always focused on creating solutions that meet both client and user needs.
 
-With every project, I bring a blend of creativity, technical expertise, and problem-solving to the table. When I’m not coding, you’ll find me spending time with my family or exploring the latest tech trends.
+          With every project, I bring a blend of creativity, technical expertise, and problem-solving to the table. When I am not coding, you will find me spending time with my family or exploring the latest tech trends.
          
           </p>
         </div>
