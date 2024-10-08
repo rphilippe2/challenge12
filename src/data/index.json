@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "As a front-end web developer, I specialize in crafting dynamic, responsive, and user-friendly websites that focus on delivering exceptional user experiences. I possess a strong foundation in HTML, CSS, and JavaScript, which allows me to create clean, semantic code that is both efficient and maintainable."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "As a back-end web developer, I focus on building the server-side logic and architecture that power dynamic, scalable, and high-performing web applications. I possess a strong command of programming languages, databases, and server management tools that allow me to create efficient, secure, and reliable systems."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "As a web developer with a strong focus on UI (User Interface) and UX (User Experience) design, I am passionate about creating intuitive, user-centered digital experiences that blend functionality with aesthetic appeal. My expertise lies in crafting interfaces that are both visually engaging and easy to navigate, ensuring seamless user interactions across various devices."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I specialize in using Webflow to design, develop, and launch responsive, visually striking websites with a focus on user experience. With Webflow, I leverage its powerful design and development tools to build websites that are not only aesthetically pleasing but also fast, scalable, and easy to manage."
     }
   ],
   "portfolio": [
